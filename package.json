@@ -1,4 +1,6 @@
 {
+	"keywords": ["word1","word2", "freecodecamp"],
+	"description": "some generic description",
 	"author":"Jane Doe",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
